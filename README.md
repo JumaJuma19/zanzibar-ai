@@ -69,11 +69,11 @@ Approximate dataset size:
 
 | Table       | Rows     |
 | ----------- | -------- |
-| Users       | 100+     |
-| Hotels      | 300+     |
-| Restaurants | 300+     |
-| Activities  | 300+     |
-| Reviews     | 1000+    |
+| Users       | 100      |
+| Hotels      | 300      |
+| Restaurants | 300      |
+| Activities  | 300      |
+| Reviews     | 100      |
 | Locations   | Multiple |
 
 ---
