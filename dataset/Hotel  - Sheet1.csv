@@ -1,0 +1,201 @@
+hotel_id,name, price_per_night,", rating",location_id
+1,Zuri Zanzibar Resort,335,4.8,12
+2,Park Hyatt Zanzibar,132,3.2,2
+3,Tembo House Hotel,82,4.8,2
+4,Kendwa Rocks Beach Hotel,95,4.3,8
+5,Nungwi Dreams Resort,245,3.8,12
+6,Melia Zanzibar,106,3.9,14
+7,The Mora Zanzibar,93,4,14
+8,Tulia Zanzibar Unique Beach Resort,251,3.8,13
+9,Diamonds Mapenzi Beach,204,4.5,3
+10,Sunshine Marine Lodge,144,4.5,7
+11,Bluebay Beach Resort,116,4.4,10
+12,Gold Zanzibar Beach House,232,4.4,5
+13,Baraza Resort and Spa,223,3.7,12
+14,Essque Zalu Zanzibar,229,4.9,7
+15,Breezes Beach Club Zanzibar,338,4.1,6
+16,Madinat Al Bahr Business Hotel,338,3.1,3
+17,Kisiwa on the Beach,280,3,11
+18,Amaan Bungalows,241,4.8,9
+19,Mnarani Beach Cottages,88,4,6
+20,Royal Zanzibar Beach Resort,243,4.8,3
+21,Zuri Zanzibar Resort,146,4.4,10
+22,Park Hyatt Zanzibar,201,3.1,12
+23,Tembo House Hotel,376,3.5,7
+24,Kendwa Rocks Beach Hotel,187,5,2
+25,Nungwi Dreams Resort,396,3.2,1
+26,Melia Zanzibar,106,4.6,10
+27,The Mora Zanzibar,327,3.9,7
+28,Tulia Zanzibar Unique Beach Resort,294,3.4,13
+29,Diamonds Mapenzi Beach,317,4.9,6
+30,Sunshine Marine Lodge,367,3,4
+31,Bluebay Beach Resort,321,4.3,1
+32,Gold Zanzibar Beach House,126,3.7,5
+33,Baraza Resort and Spa,126,3.1,10
+34,Essque Zalu Zanzibar,163,4.3,7
+35,Breezes Beach Club Zanzibar,248,3.8,5
+36,Madinat Al Bahr Business Hotel,355,4.7,11
+37,Kisiwa on the Beach,339,4.9,7
+38,Amaan Bungalows,242,5,1
+39,Mnarani Beach Cottages,228,3.4,10
+40,Royal Zanzibar Beach Resort,251,4.5,6
+41,Zuri Zanzibar Resort,369,3.7,10
+42,Park Hyatt Zanzibar,386,3.3,3
+43,Tembo House Hotel,389,3.9,10
+44,Kendwa Rocks Beach Hotel,217,3.4,5
+45,Nungwi Dreams Resort,393,5,4
+46,Melia Zanzibar,377,4.4,4
+47,The Mora Zanzibar,244,4.1,2
+48,Tulia Zanzibar Unique Beach Resort,383,3.4,13
+49,Diamonds Mapenzi Beach,176,3.3,4
+50,Sunshine Marine Lodge,175,4.7,2
+51,Bluebay Beach Resort,310,4.6,10
+52,Gold Zanzibar Beach House,153,4.3,9
+53,Baraza Resort and Spa,343,4.5,2
+54,Essque Zalu Zanzibar,203,4.2,10
+55,Breezes Beach Club Zanzibar,400,3.5,10
+56,Madinat Al Bahr Business Hotel,328,3.4,13
+57,Kisiwa on the Beach,330,3,3
+58,Amaan Bungalows,323,3.9,1
+59,Mnarani Beach Cottages,306,3.1,3
+60,Royal Zanzibar Beach Resort,147,3.4,6
+61,Zuri Zanzibar Resort,335,3,4
+62,Park Hyatt Zanzibar,168,4.7,10
+63,Tembo House Hotel,335,3.1,1
+64,Kendwa Rocks Beach Hotel,383,3.7,9
+65,Nungwi Dreams Resort,85,3.6,5
+66,Melia Zanzibar,350,3.1,4
+67,The Mora Zanzibar,360,4.4,11
+68,Tulia Zanzibar Unique Beach Resort,229,4.1,8
+69,Diamonds Mapenzi Beach,67,3.1,7
+70,Sunshine Marine Lodge,366,3.8,14
+71,Bluebay Beach Resort,222,3.7,11
+72,Gold Zanzibar Beach House,157,3.4,2
+73,Baraza Resort and Spa,369,3.3,3
+74,Essque Zalu Zanzibar,98,3,3
+75,Breezes Beach Club Zanzibar,305,3.7,13
+76,Madinat Al Bahr Business Hotel,355,3.7,3
+77,Kisiwa on the Beach,281,4.7,10
+78,Amaan Bungalows,334,3,3
+79,Mnarani Beach Cottages,377,3.9,2
+80,Royal Zanzibar Beach Resort,94,4.5,8
+81,Zuri Zanzibar Resort,101,4,12
+82,Park Hyatt Zanzibar,85,4.7,14
+83,Tembo House Hotel,114,4.3,11
+84,Kendwa Rocks Beach Hotel,69,4.7,11
+85,Nungwi Dreams Resort,187,4.9,5
+86,Melia Zanzibar,206,4.8,8
+87,The Mora Zanzibar,228,4.4,4
+88,Tulia Zanzibar Unique Beach Resort,279,3.7,8
+89,Diamonds Mapenzi Beach,343,4,4
+90,Sunshine Marine Lodge,72,3.2,11
+91,Bluebay Beach Resort,275,4.8,5
+92,Gold Zanzibar Beach House,206,4.5,10
+93,Baraza Resort and Spa,71,3.2,9
+94,Essque Zalu Zanzibar,217,3.9,5
+95,Breezes Beach Club Zanzibar,232,3.8,2
+96,Madinat Al Bahr Business Hotel,90,4.5,13
+97,Kisiwa on the Beach,59,4,1
+98,Amaan Bungalows,75,5,6
+99,Mnarani Beach Cottages,374,3,12
+100,Royal Zanzibar Beach Resort,71,4.3,14
+101,Zuri Zanzibar Resort,131,5,9
+102,Park Hyatt Zanzibar,166,4.9,12
+103,Tembo House Hotel,332,3.5,14
+104,Kendwa Rocks Beach Hotel,249,4.5,2
+105,Nungwi Dreams Resort,303,4.1,10
+106,Melia Zanzibar,146,3.1,14
+107,The Mora Zanzibar,329,4.4,14
+108,Tulia Zanzibar Unique Beach Resort,113,3.7,6
+109,Diamonds Mapenzi Beach,261,3.1,7
+110,Sunshine Marine Lodge,315,4.6,1
+111,Bluebay Beach Resort,235,4.4,1
+112,Gold Zanzibar Beach House,378,4.4,5
+113,Baraza Resort and Spa,189,3.2,2
+114,Essque Zalu Zanzibar,185,3.5,6
+115,Breezes Beach Club Zanzibar,153,4.4,10
+116,Madinat Al Bahr Business Hotel,385,3.5,1
+117,Kisiwa on the Beach,83,3.9,2
+118,Amaan Bungalows,203,3.4,12
+119,Mnarani Beach Cottages,176,4.7,7
+120,Royal Zanzibar Beach Resort,255,3.7,12
+121,Zuri Zanzibar Resort,190,4.7,5
+122,Park Hyatt Zanzibar,113,4.5,11
+123,Tembo House Hotel,254,4.8,5
+124,Kendwa Rocks Beach Hotel,82,3.8,2
+125,Nungwi Dreams Resort,276,4,11
+126,Melia Zanzibar,346,3.1,9
+127,The Mora Zanzibar,124,3.2,12
+128,Tulia Zanzibar Unique Beach Resort,189,4.2,5
+129,Diamonds Mapenzi Beach,153,3.7,14
+130,Sunshine Marine Lodge,69,4.3,8
+131,Bluebay Beach Resort,367,4.3,8
+132,Gold Zanzibar Beach House,158,3.5,14
+133,Baraza Resort and Spa,279,3.7,5
+134,Essque Zalu Zanzibar,145,4.7,7
+135,Breezes Beach Club Zanzibar,95,4.5,3
+136,Madinat Al Bahr Business Hotel,358,4.6,10
+137,Kisiwa on the Beach,203,4.8,1
+138,Amaan Bungalows,126,3.5,4
+139,Mnarani Beach Cottages,76,4.3,3
+140,Royal Zanzibar Beach Resort,251,3,12
+141,Zuri Zanzibar Resort,164,4.1,8
+142,Park Hyatt Zanzibar,93,4.6,9
+143,Tembo House Hotel,338,4.9,7
+144,Kendwa Rocks Beach Hotel,127,4.7,13
+145,Nungwi Dreams Resort,155,3.6,7
+146,Melia Zanzibar,357,3.2,7
+147,The Mora Zanzibar,213,3.5,12
+148,Tulia Zanzibar Unique Beach Resort,174,3.6,12
+149,Diamonds Mapenzi Beach,261,4.6,6
+150,Sunshine Marine Lodge,119,4.4,5
+151,Bluebay Beach Resort,185,3.5,12
+152,Gold Zanzibar Beach House,173,3.1,10
+153,Baraza Resort and Spa,225,4.3,2
+154,Essque Zalu Zanzibar,96,3.3,1
+155,Breezes Beach Club Zanzibar,100,4.5,11
+156,Madinat Al Bahr Business Hotel,142,4.7,8
+157,Kisiwa on the Beach,286,4.8,10
+158,Amaan Bungalows,126,4.8,5
+159,Mnarani Beach Cottages,270,4.3,14
+160,Royal Zanzibar Beach Resort,364,3.3,8
+161,Zuri Zanzibar Resort,348,4.9,7
+162,Park Hyatt Zanzibar,183,3.2,2
+163,Tembo House Hotel,163,4.2,4
+164,Kendwa Rocks Beach Hotel,56,4.4,7
+165,Nungwi Dreams Resort,115,4.2,8
+166,Melia Zanzibar,400,4.6,14
+167,The Mora Zanzibar,106,3.2,10
+168,Tulia Zanzibar Unique Beach Resort,77,4.5,3
+169,Diamonds Mapenzi Beach,204,3.6,9
+170,Sunshine Marine Lodge,135,3.1,11
+171,Bluebay Beach Resort,187,4,9
+172,Gold Zanzibar Beach House,336,3.2,4
+173,Baraza Resort and Spa,93,4.7,12
+174,Essque Zalu Zanzibar,146,3.7,2
+175,Breezes Beach Club Zanzibar,143,5,6
+176,Madinat Al Bahr Business Hotel,294,3.7,12
+177,Kisiwa on the Beach,67,3.5,13
+178,Amaan Bungalows,285,3.4,7
+179,Mnarani Beach Cottages,260,3.2,12
+180,Royal Zanzibar Beach Resort,292,4,14
+181,Zuri Zanzibar Resort,250,3.1,13
+182,Park Hyatt Zanzibar,332,4.3,8
+183,Tembo House Hotel,261,4.8,6
+184,Kendwa Rocks Beach Hotel,191,3.9,1
+185,Nungwi Dreams Resort,332,3.5,1
+186,Melia Zanzibar,69,4.1,5
+187,The Mora Zanzibar,144,3.2,5
+188,Tulia Zanzibar Unique Beach Resort,296,4.5,4
+189,Diamonds Mapenzi Beach,212,3.6,13
+190,Sunshine Marine Lodge,87,3.8,2
+191,Bluebay Beach Resort,63,3.3,10
+192,Gold Zanzibar Beach House,292,4.5,1
+193,Baraza Resort and Spa,371,3.8,13
+194,Essque Zalu Zanzibar,303,4.5,1
+195,Breezes Beach Club Zanzibar,83,4.4,8
+196,Madinat Al Bahr Business Hotel,382,4.5,4
+197,Kisiwa on the Beach,262,3.9,10
+198,Amaan Bungalows,169,3.6,7
+199,Mnarani Beach Cottages,130,4.2,8
+200,Royal Zanzibar Beach Resort,287,4.4,4

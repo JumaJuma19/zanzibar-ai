@@ -1,0 +1,301 @@
+review_id,user_id,hotel_id,restaurant_id,activity_id,rating,comment
+1,2,166,164,36,2,Would visit again
+2,67,94,43,67,3,Very good service
+3,98,89,138,101,5,Would visit again
+4,10,59,49,95,4,Worth the price
+5,13,10,193,200,3,Very good service
+6,15,14,13,124,3,Would visit again
+7,75,102,43,90,4,Beautiful place
+8,70,4,133,42,1,Would visit again
+9,54,88,134,24,5,Would visit again
+10,29,66,189,134,4,Worth the price
+11,66,39,2,172,4,Worth the price
+12,23,86,47,89,2,Would visit again
+13,70,162,122,87,5,Beautiful place
+14,33,16,132,83,1,Worth the price
+15,14,179,73,13,1,Worth the price
+16,65,61,185,115,1,Would visit again
+17,64,153,190,196,1,Would visit again
+18,92,71,13,196,4,Amazing experience
+19,68,90,135,69,4,Worth the price
+20,4,23,32,189,1,Beautiful place
+21,67,130,104,104,2,Worth the price
+22,98,6,54,46,4,Would visit again
+23,44,133,163,83,2,Would visit again
+24,92,60,63,173,4,Very good service
+25,51,73,101,119,3,Would visit again
+26,56,111,36,97,1,Beautiful place
+27,57,81,170,17,3,Worth the price
+28,42,129,107,78,1,Worth the price
+29,94,133,195,158,3,Amazing experience
+30,14,122,163,143,2,Worth the price
+31,51,18,41,88,1,Very good service
+32,27,104,44,132,2,Would visit again
+33,95,187,185,75,1,Would visit again
+34,60,196,15,57,4,Worth the price
+35,85,21,18,91,2,Beautiful place
+36,67,46,192,111,1,Amazing experience
+37,49,184,139,118,4,Very good service
+38,48,85,19,26,1,Worth the price
+39,16,144,182,163,4,Beautiful place
+40,74,80,134,79,4,Amazing experience
+41,88,144,12,53,1,Beautiful place
+42,27,32,181,12,4,Amazing experience
+43,18,22,80,22,3,Amazing experience
+44,95,51,180,154,2,Beautiful place
+45,66,126,166,131,4,Very good service
+46,6,175,111,64,4,Amazing experience
+47,84,42,196,100,1,Very good service
+48,79,40,82,160,3,Would visit again
+49,27,99,11,74,3,Very good service
+50,52,191,75,61,1,Beautiful place
+51,59,10,30,59,1,Would visit again
+52,61,61,68,77,2,Amazing experience
+53,41,11,65,130,5,Very good service
+54,35,30,67,11,4,Very good service
+55,50,166,26,113,5,Worth the price
+56,51,91,94,17,2,Amazing experience
+57,24,64,196,113,2,Beautiful place
+58,30,4,98,125,4,Worth the price
+59,51,34,192,90,3,Beautiful place
+60,27,119,76,30,4,Would visit again
+61,91,140,119,88,5,Worth the price
+62,75,174,18,65,2,Beautiful place
+63,69,191,140,158,3,Would visit again
+64,68,195,115,56,3,Beautiful place
+65,65,183,105,199,1,Worth the price
+66,73,65,130,165,3,Would visit again
+67,82,37,154,106,5,Amazing experience
+68,18,22,108,25,5,Very good service
+69,84,92,168,58,4,Very good service
+70,33,24,80,94,4,Very good service
+71,5,175,130,194,4,Worth the price
+72,11,116,11,19,4,Beautiful place
+73,38,18,5,98,1,Would visit again
+74,10,64,61,200,2,Would visit again
+75,87,26,12,100,5,Worth the price
+76,77,34,165,143,3,Amazing experience
+77,90,93,36,72,3,Worth the price
+78,43,146,48,165,4,Very good service
+79,99,111,67,54,2,Beautiful place
+80,43,198,28,26,5,Very good service
+81,4,5,170,137,2,Worth the price
+82,94,147,41,64,4,Amazing experience
+83,6,155,3,55,1,Very good service
+84,77,5,42,138,2,Amazing experience
+85,44,91,75,186,1,Worth the price
+86,15,183,152,108,1,Very good service
+87,60,170,136,15,5,Very good service
+88,38,38,177,136,4,Very good service
+89,41,126,34,22,5,Worth the price
+90,28,33,161,48,1,Amazing experience
+91,82,175,165,80,3,Beautiful place
+92,85,51,35,189,1,Would visit again
+93,77,150,59,147,3,Would visit again
+94,63,32,72,117,3,Amazing experience
+95,100,87,97,105,3,Beautiful place
+96,7,23,73,179,2,Amazing experience
+97,86,114,46,16,3,Would visit again
+98,96,195,157,17,2,Would visit again
+99,68,112,22,143,2,Would visit again
+100,35,59,128,53,5,Would visit again
+101,26,42,173,142,2,Beautiful place
+102,86,21,154,75,1,Very good service
+103,18,177,174,141,5,Very good service
+104,98,13,154,108,1,Worth the price
+105,83,9,8,140,2,Amazing experience
+106,46,94,169,17,3,Would visit again
+107,95,147,86,101,1,Would visit again
+108,68,131,8,196,3,Very good service
+109,84,13,185,168,1,Worth the price
+110,98,200,35,199,2,Beautiful place
+111,42,59,77,186,5,Would visit again
+112,17,88,6,42,3,Amazing experience
+113,46,144,80,121,4,Worth the price
+114,36,171,188,73,5,Worth the price
+115,51,186,45,158,3,Amazing experience
+116,23,23,10,11,4,Very good service
+117,62,56,151,7,5,Beautiful place
+118,22,161,66,136,3,Would visit again
+119,64,112,5,74,3,Would visit again
+120,66,57,197,11,1,Amazing experience
+121,68,39,156,175,2,Beautiful place
+122,99,50,189,71,4,Very good service
+123,23,191,177,176,2,Worth the price
+124,15,92,61,153,5,Would visit again
+125,98,119,57,6,3,Amazing experience
+126,39,31,126,2,5,Beautiful place
+127,90,35,2,171,2,Beautiful place
+128,65,153,26,108,3,Very good service
+129,99,84,196,10,4,Amazing experience
+130,72,15,61,8,3,Would visit again
+131,93,162,18,8,4,Beautiful place
+132,48,186,144,114,5,Would visit again
+133,72,182,196,111,5,Very good service
+134,73,41,74,35,4,Very good service
+135,85,102,24,120,3,Would visit again
+136,37,185,149,175,4,Beautiful place
+137,45,12,84,61,1,Would visit again
+138,4,118,29,30,1,Amazing experience
+139,89,28,41,58,5,Amazing experience
+140,4,33,194,6,2,Very good service
+141,50,160,181,184,3,Beautiful place
+142,25,48,167,87,4,Would visit again
+143,5,54,179,136,5,Amazing experience
+144,91,83,154,45,3,Very good service
+145,28,79,172,96,1,Very good service
+146,42,190,138,190,5,Very good service
+147,88,133,146,157,5,Would visit again
+148,27,195,135,124,2,Worth the price
+149,55,149,79,11,2,Very good service
+150,32,4,24,78,2,Worth the price
+151,20,144,93,131,3,Would visit again
+152,92,78,113,143,4,Amazing experience
+153,17,99,126,119,1,Amazing experience
+154,1,94,50,82,3,Would visit again
+155,38,102,62,1,1,Very good service
+156,30,108,56,144,2,Very good service
+157,32,53,190,70,3,Amazing experience
+158,38,19,100,98,3,Very good service
+159,96,99,177,121,5,Amazing experience
+160,63,189,66,156,4,Worth the price
+161,74,119,138,15,4,Amazing experience
+162,49,62,145,70,3,Amazing experience
+163,84,126,145,114,1,Amazing experience
+164,82,149,53,147,1,Worth the price
+165,10,26,105,30,1,Beautiful place
+166,92,149,2,97,5,Would visit again
+167,67,122,136,176,5,Beautiful place
+168,68,194,131,137,4,Would visit again
+169,64,53,78,49,3,Would visit again
+170,93,54,115,179,3,Worth the price
+171,47,39,161,34,2,Amazing experience
+172,57,156,198,116,1,Worth the price
+173,43,174,101,62,3,Beautiful place
+174,18,123,34,107,4,Beautiful place
+175,96,27,74,37,1,Would visit again
+176,31,35,40,173,2,Worth the price
+177,3,11,106,152,2,Very good service
+178,98,26,45,3,2,Beautiful place
+179,78,140,129,112,1,Amazing experience
+180,20,105,74,148,4,Beautiful place
+181,97,179,61,146,3,Would visit again
+182,55,142,187,2,4,Beautiful place
+183,54,6,53,193,1,Beautiful place
+184,34,137,39,107,1,Would visit again
+185,46,78,49,164,5,Beautiful place
+186,58,86,23,97,4,Would visit again
+187,21,15,49,65,4,Worth the price
+188,81,170,47,25,3,Very good service
+189,32,81,89,98,1,Worth the price
+190,75,58,102,45,5,Beautiful place
+191,97,119,107,147,1,Would visit again
+192,62,150,112,102,4,Very good service
+193,78,82,75,54,5,Amazing experience
+194,46,62,114,198,3,Worth the price
+195,78,65,69,123,1,Amazing experience
+196,6,123,49,114,2,Would visit again
+197,14,19,175,105,5,Very good service
+198,30,137,152,153,1,Worth the price
+199,43,177,117,96,5,Amazing experience
+200,17,177,37,186,1,Worth the price
+201,100,18,108,155,1,Amazing experience
+202,5,199,80,24,4,Very good service
+203,18,28,197,104,4,Would visit again
+204,34,58,187,58,4,Worth the price
+205,89,168,28,6,4,Would visit again
+206,76,67,28,120,5,Beautiful place
+207,74,130,97,73,3,Very good service
+208,26,58,134,178,2,Very good service
+209,20,80,116,130,1,Worth the price
+210,25,168,36,151,2,Very good service
+211,78,172,56,41,3,Worth the price
+212,57,63,1,55,3,Beautiful place
+213,5,87,115,198,1,Worth the price
+214,50,74,69,90,2,Very good service
+215,3,192,132,200,4,Amazing experience
+216,85,171,136,147,4,Would visit again
+217,82,63,89,105,3,Worth the price
+218,9,157,189,106,5,Worth the price
+219,9,91,122,5,1,Very good service
+220,10,17,96,150,2,Would visit again
+221,73,31,120,113,1,Would visit again
+222,50,198,125,48,4,Worth the price
+223,98,49,175,80,2,Worth the price
+224,32,54,181,52,1,Beautiful place
+225,14,64,109,76,1,Worth the price
+226,65,184,133,51,5,Beautiful place
+227,41,142,171,103,4,Very good service
+228,71,80,162,52,2,Amazing experience
+229,20,70,116,134,2,Very good service
+230,99,96,187,123,4,Beautiful place
+231,42,44,107,69,4,Very good service
+232,96,101,199,13,3,Worth the price
+233,54,28,93,183,5,Worth the price
+234,87,12,166,129,5,Amazing experience
+235,61,44,42,180,2,Would visit again
+236,47,179,36,146,2,Very good service
+237,75,146,83,19,3,Would visit again
+238,22,111,4,48,5,Worth the price
+239,62,61,172,27,2,Very good service
+240,35,148,2,135,2,Would visit again
+241,69,110,34,7,2,Amazing experience
+242,58,147,200,177,3,Very good service
+243,85,46,148,135,3,Worth the price
+244,62,115,126,88,4,Worth the price
+245,61,66,172,198,3,Very good service
+246,95,85,111,179,3,Beautiful place
+247,84,103,192,146,2,Worth the price
+248,68,85,38,132,5,Would visit again
+249,47,129,163,20,5,Worth the price
+250,53,168,10,106,1,Would visit again
+251,73,188,40,68,4,Very good service
+252,34,124,36,78,2,Very good service
+253,44,73,25,132,4,Beautiful place
+254,21,76,5,14,2,Worth the price
+255,14,77,172,189,3,Worth the price
+256,7,105,105,29,2,Very good service
+257,7,133,158,85,3,Beautiful place
+258,53,8,164,11,4,Worth the price
+259,77,140,158,172,3,Amazing experience
+260,39,173,81,9,4,Worth the price
+261,26,11,110,142,3,Beautiful place
+262,24,9,31,84,1,Very good service
+263,14,85,55,57,5,Worth the price
+264,12,112,76,37,3,Worth the price
+265,13,118,15,177,5,Very good service
+266,27,115,126,31,4,Would visit again
+267,82,128,101,10,4,Beautiful place
+268,79,168,133,176,1,Amazing experience
+269,25,16,178,95,2,Amazing experience
+270,88,35,177,137,1,Would visit again
+271,38,25,26,123,3,Would visit again
+272,31,139,134,138,2,Beautiful place
+273,45,80,160,102,1,Would visit again
+274,41,73,141,95,3,Very good service
+275,37,17,15,14,4,Amazing experience
+276,71,62,163,45,4,Amazing experience
+277,3,132,42,69,2,Worth the price
+278,84,123,5,67,2,Would visit again
+279,69,103,99,194,5,Very good service
+280,94,75,3,55,2,Would visit again
+281,22,109,61,9,2,Amazing experience
+282,13,100,63,62,3,Very good service
+283,96,109,14,73,2,Worth the price
+284,4,178,169,154,4,Worth the price
+285,94,84,91,144,5,Would visit again
+286,38,65,126,154,5,Amazing experience
+287,84,179,153,199,4,Beautiful place
+288,86,86,4,94,5,Would visit again
+289,16,86,120,31,2,Amazing experience
+290,55,110,113,16,2,Very good service
+291,68,169,53,97,3,Very good service
+292,45,75,172,107,1,Beautiful place
+293,67,79,2,11,3,Beautiful place
+294,53,20,67,130,4,Would visit again
+295,37,45,165,55,4,Would visit again
+296,83,52,155,160,5,Worth the price
+297,13,61,130,153,1,Worth the price
+298,89,37,122,155,3,Very good service
+299,47,62,133,170,2,Beautiful place
+300,80,26,36,50,2,Would visit again
