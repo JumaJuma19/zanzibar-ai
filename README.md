@@ -1,5 +1,7 @@
 # MyZanzibar AI – Milestone 2
 
+###github repo link: https://github.com/JumaJuma19/zanzibar-ai
+
 ## Project Overview
 
 MyZanzibar AI is a tourism database system designed for Zanzibar tourism management and future AI-powered recommendation systems.
