@@ -73,8 +73,8 @@ Approximate dataset size:
 | Hotels      | 300      |
 | Restaurants | 300      |
 | Activities  | 300      |
-| Reviews     | 100      |
-| Locations   | Multiple |
+| Reviews     | 300      |
+| Locations   | 14       |
 
 ---
 
