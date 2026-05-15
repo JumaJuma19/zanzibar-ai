@@ -1,6 +1,6 @@
 # MyZanzibar AI – Milestone 2
 
-###github repo link: https://github.com/JumaJuma19/zanzibar-ai
+### github repo link: https://github.com/JumaJuma19/zanzibar-ai
 
 ## Project Overview
 
